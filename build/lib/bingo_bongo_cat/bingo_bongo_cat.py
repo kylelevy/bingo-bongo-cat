@@ -51,7 +51,3 @@ class FunnyCat:
             print(self.cat)
 
         return str(speechBubble+'\n'+self.cat)
-
-# Calling the function to demonstrate the error
-if __name__ == '__main__':
-    FunnyCat().say("Hi Y'all!")

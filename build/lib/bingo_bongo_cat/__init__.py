@@ -1,1 +1,1 @@
-from bingo_bongo_cat import *
+from bingo_bongo_cat.bingo_bongo_cat import FunnyCat

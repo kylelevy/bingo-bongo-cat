@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.4'
+VERSION = '0.0.8'
 DESCRIPTION = 'Cat that prints messages.'
 LONG_DESCRIPTION = 'A package which makes troubleshooting code a little less painful by adding a cute cat to let you know where you went wrong.'
 
