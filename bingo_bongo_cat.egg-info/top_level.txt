@@ -1,1 +1,1 @@
-bingo-bongo-cat
+bingo_bongo_cat

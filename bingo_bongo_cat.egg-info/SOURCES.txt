@@ -1,8 +1,8 @@
 LICENSE
 README.md
 setup.py
-bingo-bongo-cat/__init__.py
-bingo-bongo-cat/bingo_bongo_cat.py
+bingo_bongo_cat/__init__.py
+bingo_bongo_cat/bingo_bongo_cat.py
 bingo_bongo_cat.egg-info/PKG-INFO
 bingo_bongo_cat.egg-info/SOURCES.txt
 bingo_bongo_cat.egg-info/dependency_links.txt
