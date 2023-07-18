@@ -3,6 +3,10 @@ A very small library which makes troubleshooting code a little less painful by a
 
 ![image](https://github.com/kylelevy/bingo-bongo-cat/assets/37563214/ae5497d3-9422-44cb-9b11-e1755fb5f911)
 
+## Installation
+
+`pip install bingo_bongo_cat`
+
 ## Capabilities
 
 ### 🐱 meow
