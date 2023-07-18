@@ -1,4 +1,7 @@
+<p align="center"><img src="https://github.com/kylelevy/bingo-bongo-cat/assets/37563214/c8a836e1-aa54-4740-9cc2-551c161fe419" alt="Bingo Bongo" height="400" width="400"></p>
+
 # 🪘 bingo-bongo-cat
+
 A very small library which makes troubleshooting code a little less painful by adding a cute cat to let you know where you went wrong.
 
 ![image](https://github.com/kylelevy/bingo-bongo-cat/assets/37563214/ae5497d3-9422-44cb-9b11-e1755fb5f911)
